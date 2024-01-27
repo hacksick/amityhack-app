@@ -1,4 +1,4 @@
-# amityhack
+# sophos data sharing app
 
 A new Flutter project.
 
